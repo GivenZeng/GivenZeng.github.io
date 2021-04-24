@@ -20,10 +20,13 @@
 - [ksql](./计算机/ksql.html)
 - [spark](./计算机/spark.html)
 - [python虚拟环境virtualenv](./计算机/多路复用.html)
+- [流量控制和拥塞控制]](./计算机/流量控制和拥塞控制.html)
+
 
 
 # 数据库
 - [redis](./数据库/redis.html)
+- [mysql的cache](./数据库/mysql的cache.html)
 
 # 统计学习
 - [概论](./统计学习方法/概论.html)
