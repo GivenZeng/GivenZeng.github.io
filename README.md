@@ -17,13 +17,14 @@
 - [DDOS攻击](./计算机/ddos.html)
 - [go的routine](./计算机/go的routine.html)
 - [go的sync](./计算机/go的sync.html)
+- [go的编译过程](./计算机/go的编译过程.html)
 - [ksql](./计算机/ksql.html)
 - [spark](./计算机/spark.html)
 - [python虚拟环境virtualenv](./计算机/多路复用.html)
 - [流量控制和拥塞控制](./计算机/流量控制和拥塞控制.html)
 - [链接](./计算机/链接.html)
 - [docker概述](./计算机/docker概述.html)
-
+- [负载均衡](./计算机/负载均衡.html)
 
 
 
