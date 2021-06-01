@@ -81,7 +81,7 @@ hping3 --flood --rand-source --udp -p TARGET_PORT TARGET_IP
 &#8195;&#8195;攻击者不是直接把通信包发给受害者，发给放大器然后反射个受害者。这种手段利用回复包比请求包大的特点，伪造请求包的源ip地址，将应答包引向被攻击的目标。
 
 <p align="center">
-<img src="/web/ddos/放大攻击.png"  style="width:300px" alt="放大攻击"/>
+<img src="./source/放大攻击.png"  style="width:300px" alt="放大攻击"/>
 </p>
 
 &#8195;&#8195;使用这种手段的前提是攻击者和目标之间使用的是无需验证源地址的无连接协议。常见的攻击有Smurf攻击（ICMP）放大、DNS放大攻击、Fraggle攻击（UDP放大）。
