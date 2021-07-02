@@ -20,7 +20,7 @@
 - [go的编译过程](./计算机/go的编译过程.html)
 - [ksql](./计算机/ksql.html)
 - [spark](./计算机/spark.html)
-- [python虚拟环境virtualenv](./计算机/多路复用.html)
+- [python虚拟环境virtualenv](./计算机/python的virtualenv.html)
 - [流量控制和拥塞控制](./计算机/流量控制和拥塞控制.html)
 - [链接](./计算机/链接.html)
 - [插桩](./计算机/插桩.html)
